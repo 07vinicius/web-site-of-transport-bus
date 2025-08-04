@@ -1,0 +1,708 @@
+.slide-16-9-1,
+.slide-16-9-1 * {
+  box-sizing: border-box;
+}
+.slide-16-9-1 {
+  background: var(--background-color, #f5f5f5);
+  height: 3240px;
+  position: relative;
+  overflow: hidden;
+}
+.roda-p {
+  width: 1979px;
+  height: 924px;
+  position: absolute;
+  left: -40px;
+  top: 2273px;
+}
+.rectangle-16 {
+  background: #808486;
+  border-radius: 16px;
+  width: 1440px;
+  height: 79px;
+  position: absolute;
+  left: 280px;
+  top: 845px;
+}
+.copyright-2025-uai-bus-com-all-rights-reserved {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 130%;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 215.5px);
+  top: 872px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.retrato-de-uma-jovem-sentada-em-um-onibus-da-cidade-com-um-celular-nas-maos-e-andando-em-transporte-publico-232070-25185-1 {
+  opacity: 0.8;
+  width: 1979px;
+  height: 787px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  filter: blur(22.5px);
+  object-fit: cover;
+  aspect-ratio: 1979/787;
+}
+.main {
+  width: 1304px;
+  height: 1135px;
+  position: absolute;
+  left: 240px;
+  top: 1080px;
+}
+.frame-76 {
+  width: 438px;
+  height: 910px;
+  position: absolute;
+  left: 866px;
+  top: 0px;
+}
+.rectangle-12 {
+  background: rgba(0, 0, 0, 0.65);
+  border-radius: 81px;
+  width: 437px;
+  height: 864px;
+  position: absolute;
+  left: -34px;
+  top: 114px;
+  filter: blur(50px);
+}
+.silver {
+  width: 438px;
+  height: 910px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.group-1000002350 {
+  height: auto;
+  position: absolute;
+  left: 16px;
+  top: 14px;
+  overflow: visible;
+}
+.frame-68 {
+  background: var(--neutral-n900, #2b3235);
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 45px;
+  height: 23px;
+  position: absolute;
+  left: 136px;
+  top: 377px;
+}
+.frame {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+._175 {
+  color: var(--neutral-n0, #ffffff);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 11px;
+  line-height: 130%;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-69 {
+  background: var(--neutral-n900, #2b3235);
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 45px;
+  height: 23px;
+  position: absolute;
+  left: 333px;
+  top: 703px;
+}
+.frame2 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+._49 {
+  color: var(--neutral-n0, #ffffff);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 11px;
+  line-height: 130%;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-70 {
+  background: var(--neutral-n900, #2b3235);
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 45px;
+  height: 23px;
+  position: absolute;
+  left: 280px;
+  top: 264px;
+}
+.frame3 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+._217 {
+  color: var(--neutral-n0, #ffffff);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 11px;
+  line-height: 130%;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-37 {
+  background: var(--neutral-n900, #2b3235);
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 33px;
+  height: 20px;
+  position: absolute;
+  left: 65px;
+  top: 484px;
+}
+.frame4 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+._1 {
+  color: var(--neutral-n0, #ffffff);
+  text-align: left;
+  font-family: var(
+    --11px-medium-font-family,
+    "InterDisplay-Medium",
+    sans-serif
+  );
+  font-size: var(--11px-medium-font-size, 11px);
+  line-height: var(--11px-medium-line-height, 130%);
+  font-weight: var(--11px-medium-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-38 {
+  background: var(--neutral-n900, #2b3235);
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 33px;
+  height: 20px;
+  position: absolute;
+  left: 22px;
+  top: 307px;
+}
+.frame5 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: visible;
+}
+._9 {
+  color: var(--neutral-n0, #ffffff);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 11px;
+  line-height: 130%;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-13 {
+  background: #454545;
+  border-radius: 45px;
+  width: 345px;
+  height: 450px;
+  position: absolute;
+  left: 0px;
+  top: 133px;
+}
+.planeje-trajetos-com-base-em-tr-fego-e-hor-rios-atualizados {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: 36px;
+  top: 165px;
+  width: 273px;
+  height: 390px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-15 {
+  background: #d9d9d9;
+  border-radius: 45px;
+  width: 345px;
+  height: 450px;
+  position: absolute;
+  left: 0px;
+  top: 685px;
+}
+.compre-bilhetes-digitais-e-pague-direto-pelo-app {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: 36px;
+  top: 715px;
+  width: 273px;
+  height: 390px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-14 {
+  background: #808486;
+  border-radius: 45px;
+  width: 345px;
+  height: 450px;
+  position: absolute;
+  left: 365px;
+  top: 358px;
+}
+.acompanhe-seu-nibus-ou-metr-em-tempo-real-sem-surpresas {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: 401px;
+  top: 389px;
+  width: 273px;
+  height: 390px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.star-8 {
+  width: 94.31px;
+  height: 94.31px;
+  position: absolute;
+  left: calc(50% - 307px);
+  top: calc(50% - 319.34px);
+  transform: translate(18.29px, -23.58px);
+  overflow: visible;
+}
+.star-9 {
+  width: 94.31px;
+  height: 94.31px;
+  position: absolute;
+  left: calc(50% - -365px);
+  top: calc(50% - -520.66px);
+  transform: translate(18.29px, -23.58px);
+  overflow: visible;
+}
+.home {
+  width: 1057px;
+  height: 1019.68px;
+  position: absolute;
+  left: 130px;
+  top: 133px;
+}
+.texto {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 583px;
+  position: absolute;
+  left: 961px;
+  top: 411px;
+}
+.a-nova-era-do-transporte-p-blico-est-aqui {
+  color: var(--text-color, #333333);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.todas-as-rotas-hor-rios-e-informa-es-em-tempo-real-seu-guia-de-viagem-agora-digital-r-pido-e-pr-tico {
+  color: var(--text-color, #333333);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2 {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--color-2, #4169e1);
+  border-width: 3px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.iniciar-teste-gratuito {
+  color: var(--color-2, #4169e1);
+  text-align: center;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: italic;
+  position: relative;
+  width: 203px;
+  -webkit-text-stroke: 1px var(--color-2, #4169e1);
+}
+.square-hero {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 5px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 104px;
+  top: 54px;
+}
+.rectangle-5 {
+  background: #d9d9d9;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 104px;
+  top: 337px;
+}
+.rectangle-9 {
+  background: #333333;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 104px;
+  top: 605px;
+}
+.rectangle-2 {
+  background: #454545;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 348px;
+  top: 54px;
+}
+.rectangle-6 {
+  background: #888787;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 348px;
+  top: 337px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 348px;
+  top: 605px;
+}
+.rectangle-3 {
+  background: #888787;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 591px;
+  top: 54px;
+}
+.rectangle-7 {
+  background: #d9d9d9;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 591px;
+  top: 337px;
+}
+.rectangle-11 {
+  background: #454545;
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 591px;
+  top: 605px;
+}
+.rectangle-4 {
+  background: var(--text-color, #333333);
+  border-radius: 16px;
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  left: 834px;
+  top: 54px;
+}
+.sombra {
+  background: rgba(0, 0, 0, 0.9);
+  border-radius: 50%;
+  width: 759px;
+  height: 102.59px;
+  position: absolute;
+  left: 96.1px;
+  top: 605.24px;
+  transform-origin: 0 0;
+  transform: rotate(-2deg) scale(1, 1);
+  filter: blur(25px);
+}
+.foto-onibus {
+  width: 880.21px;
+  height: 880.21px;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 356.99px);
+  transform-origin: 0 0;
+  transform: rotate(-10deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 316px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 418.5px);
+  top: -133px;
+}
+.logo {
+  border-radius: 76px;
+  flex-shrink: 0;
+  width: 223px;
+  height: 88px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 0);
+  object-fit: cover;
+  aspect-ratio: 223/88;
+}
+.navi-bar {
+  display: flex;
+  flex-direction: row;
+  gap: 561px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.nibus {
+  color: var(--text-color, #333333);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.horarios {
+  color: var(--text-color, #333333);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.passagem {
+  color: var(--text-color, #333333);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.contato {
+  color: var(--text-color, #333333);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-22 {
+  background: #ffffff;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--color-2, #4169e1);
+  border-width: 1px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.entrar {
+  color: var(--color-2, #4169e1);
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 10px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px var(--color-2, #4169e1);
+}
+.star-82 {
+  width: 94.31px;
+  height: 94.31px;
+  position: absolute;
+  left: calc(50% - 359.5px);
+  top: calc(50% - 390.84px);
+  transform: translate(2.31px, 0px);
+  overflow: visible;
+}
+.frame-78 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 710px;
+  position: absolute;
+  left: 240px;
+  top: 2440px;
+}
+.sobre-a-gente {
+  color: var(--background-color, #f5f5f5);
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a-uaibus-a-nova-gera-o-de-apps-de-transporte-p-blico-nossa-miss-o-transformar-sua-experi-ncia-de-mobilidade-urbana-com-tecnologia-inteligente-rotas-em-tempo-real-e-pagamento-simplificado-presente-nas-principais-capitais-brasileiras-ajudamos-passageiros-a-economizar-tempo-nos-trajetos-evitar-congestionamentos-viajar-com-mais-tranquilidade-tecnologia-que-move-pessoas-simplifica-cidades {
+  color: var(--background-color, #f5f5f5);
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+  align-self: stretch;
+  height: 401px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-17 {
+  background: var(--color-2, #4169e1);
+  width: 1920px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 3057px;
+}
+.star-7 {
+  width: 107px;
+  height: 107px;
+  position: absolute;
+  left: calc(50% - -696px);
+  top: calc(50% - 1230px);
+  overflow: visible;
+}
