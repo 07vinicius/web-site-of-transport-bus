@@ -36,6 +36,7 @@ Mais do que códigos e planos de negócio, esta experiência nos ensinou:
 
 **Próximos passos**  
 Queremos levar o UaiBus adiante:
+
 🔹 Expandir para outras escolas da região  
 🔹 Desenvolver versão mobile nativa  
 🔹 Buscar parcerias com a secretaria de educação  
