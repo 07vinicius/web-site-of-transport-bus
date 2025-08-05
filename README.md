@@ -12,6 +12,7 @@ Como estudantes, conhecíamos bem as dores:
 
 **Nossa solução**  
 Desenvolvemos uma plataforma que oferece:
+
 ✅ Horários reais dos ônibus escolares  
 ✅ Mapa das rotas com pontos estratégicos  
 ✅ Alertas sobre atrasos ou mudanças  
@@ -19,7 +20,7 @@ Desenvolvemos uma plataforma que oferece:
 
 **Tecnologia e Empreendedorismo unidos**  
 Este projeto nos permitiu colocar em prática:
-- **Técnicas de programação** (HTML, CSS, JavaScript, PHP, MySQL)
+- **Técnicas de programação** (HTML, CSS, JavaScript, PHP, MySQL, FIGMA)
 - **Metodologias ágeis** para desenvolvimento
 - **Princípios de empreendedorismo**:
   - Validação do problema com pesquisa de campo
